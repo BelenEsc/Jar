@@ -23,7 +23,7 @@ public class App {
 class Marco18 extends JFrame {
 	public Marco18() {
 
-		setTitle("Cajas");
+		setTitle("Cajas2");
 		setDefaultCloseOperation(3);
 		setBounds(50, 50, 700, 700);
 		
