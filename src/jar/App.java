@@ -23,7 +23,7 @@ public class App {
 class Marco18 extends JFrame {
 	public Marco18() {
 
-		setTitle("Cajas");
+		setTitle("Cajaas");
 		setDefaultCloseOperation(3);
 		setBounds(50, 50, 700, 700);
 		
@@ -34,7 +34,7 @@ class Marco18 extends JFrame {
 		Box caja2 = Box.createHorizontalBox();
 		Box caja3 = Box.createHorizontalBox();
 
-		JLabel nombre = new JLabel("hola");
+		JLabel nombre = new JLabel("holas");
 		JTextField nom = new JTextField(20);
 		nom.setMaximumSize(nom.getPreferredSize());
 		JLabel password = new JLabel("pass");
